@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=airrstorm&label=Profile%20views&color=0e75b6&style=flat" alt="airrstorm" /> </p>
 
+- 🛠️ I'm currently working on [Synapse](https://github.com/AirrStorm/Synapse)
+
 - 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 Some of my AI/ML projects are available at [https://huggingface.co/AirrStorm](https://huggingface.co/AirrStorm)
