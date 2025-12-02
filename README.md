@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=airrstorm&label=Profile%20views&color=0e75b6&style=flat" alt="airrstorm" /> </p>
 
-- 🛠️ I'm currently working on a [Music Doohickey](https://github.com/AirrStorm/MPD)
+- 🛠️ I'm currently working on a [Music Playing Doohickey](https://github.com/AirrStorm/MPD)
 
 - 🌱 I’m currently learning **Electronics/Robotics**
 
